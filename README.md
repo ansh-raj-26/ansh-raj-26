@@ -52,7 +52,7 @@ Learning:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ansh-raj-26&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ansh-raj-26&theme=radical&no-frame=true&row=1" />
 </p>
 
 ---
@@ -60,8 +60,7 @@ Learning:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ansh-raj-26&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-raj-26&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ansh-raj-26&show_icons=true&theme=radical&cache_seconds=1800"/>
 </p>
 
 ---
