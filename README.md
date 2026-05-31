@@ -1,23 +1,140 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ansh+Raj+%F0%9F%91%8B;JavaScript+Developer;Linux+Enthusiast;Future+Blockchain+Developer;Always+Learning+Something+New" />
+</h1>
 
-# 💫 About Me:
-🔭 I’m currently working on Javascript<br>👯 I’m looking for a Online Friends who Loves Coding<br>🤝 I’m looking for help with Ai Projects<br>🌱 I’m currently learning Fullstack Devolepment<br>💬 Ask me about Anything<br>⚡ Fun fact I am Still in School
+<h3 align="center">🚀 Building. Learning. Growing.</h3>
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ansh_raj_26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ansh-raj-259845210/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ansh_raj_1508) 
+## 🌐 Connect With Me
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=flat&logo=opensea&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Wizard-Ninja&theme=vue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Wizard-Ninja&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wizard-Ninja&theme=vue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/ansh-raj-26">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,git,github,linux,vscode,bash" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```yaml
+Learning:
+  - JavaScript
+  - Linux
+  - Shell Commands
+  - Git & GitHub
+  - Problem Solving
+```
+
+---
+
+## 🎯 2026 Goals
+
+- Complete JavaScript Fundamentals
+- Build Real-World Projects
+- Master Linux CLI
+- Learn Rust
+- Start Blockchain Development
+- Contribute to Open Source
+- Become a Strong Problem Solver
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Wizard-Ninja&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ansh-raj-26&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ansh-raj-26&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-raj-26&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ansh-raj-26&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh-raj-26&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ansh-raj-26/ansh-raj-26/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+## ⚡ Developer Mindset
+
+```javascript
+const ansh = {
+    code: ["JavaScript", "Python"],
+    currentlyLearning: ["Linux", "Shell", "JavaScript"],
+    futureStack: ["Rust", "Blockchain"],
+    motto: "Learn → Build → Break → Fix → Repeat"
+};
+```
+
+---
+
+## 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ansh-raj-26&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+---
+
+## 🎵 Current Journey
+
+```text
+HTML/CSS        ██████████ 100%
+Git/GitHub      ███████░░░ 70%
+JavaScript      ██████░░░░ 60%
+Linux           █████░░░░░ 50%
+Python          ███████░░░ 70%
+Rust            █░░░░░░░░░ 10%
+Blockchain      ░░░░░░░░░░ 0%
+```
+
+---
+
+<div align="center">
+
+### ⭐ "Small progress every day beats big plans someday."
+
+</div>
